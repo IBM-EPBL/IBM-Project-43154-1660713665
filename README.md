@@ -6,7 +6,7 @@
 
 [Selvasundar](https://github.com/SelvaSundar45)
 
-[Durairaja](https://github.com/DURAIRAJA01)\
+[Durairaja](https://github.com/DURAIRAJA01)
 
 [Esakkiraja @ vishal](https://github.com/esakkirajavishal)
 
