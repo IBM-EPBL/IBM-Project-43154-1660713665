@@ -11,3 +11,30 @@
 [Esakkiraja @ vishal](https://github.com/esakkirajavishal)
 
 [Senthil Vel ](https://github.com/SENTHILVEL13)
+
+### Checklist:
+- [x] Ideation Phase
+  - [x] Literature Survey 
+  - [x] Empathy Map 
+  - [x] Problem Statement 
+  - [x] Ideation 
+- [x] Project Design Phase -I
+  - [x] Proposed Solution
+  - [x] Problem Solution Fit
+  - [x] Solution Architecture 
+- [x] Project Design Phase -II
+  - [x] Customer Journey
+  - [x] Functional Requirement Document 
+  - [x] Data Flow Daigrams 
+  - [x] Technology Architecture 
+
+- [x] Project Planning Phase
+  - [x] Milestone 
+  - [x] Activity List 
+  - [x] Sprint Delivery Plan  
+ 
+- [ ] Project Development Phase
+  - [ ] Sprint 1 
+  - [ ] Sprint 2
+  - [ ] Sprint 3
+  - [ ] Sprint 4
