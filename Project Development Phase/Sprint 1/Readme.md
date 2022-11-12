@@ -1,1 +1,4 @@
-sprint 1 upload soon...
+- [x] Sprint 1 
+  - [x] Login
+  - [x] Register
+  - [x] Home
