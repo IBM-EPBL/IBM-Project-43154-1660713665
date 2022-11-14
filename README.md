@@ -1,4 +1,4 @@
-<span style="color: green"> Some green text </span>
+<span style="color: green"> 
 # IBM-Project-43154-1660713665
 ## Personal Expense Tracker Application
 # Batch Id-[B3-3M5E](https://github.com/IBM-EPBL/Assignments-CApD/tree/main/B3-3M5E)
@@ -39,3 +39,4 @@
   - [x] Sprint 2
   - [ ] Sprint 3
   - [ ] Sprint 4
+</span>
