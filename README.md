@@ -13,30 +13,10 @@
 
 [Senthil Vel ](https://github.com/SENTHILVEL13)
 
-### Checklist:
-- [x] Ideation Phase
-  - [x] Literature Survey 
-  - [x] Empathy Map 
-  - [x] Problem Statement 
-  - [x] Ideation 
-- [x] Project Design Phase -I
-  - [x] Proposed Solution
-  - [x] Problem Solution Fit
-  - [x] Solution Architecture 
-- [x] Project Design Phase -II
-  - [x] Customer Journey
-  - [x] Functional Requirement Document 
-  - [x] Data Flow Daigrams 
-  - [x] Technology Architecture 
+# 👨‍💻Skills Required:
+IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
 
-- [x] Project Planning Phase
-  - [x] Milestone 
-  - [x] Activity List 
-  - [x] Sprint Delivery Plan  
- 
-- [x] Project Development Phase
-  - [x] Sprint 1 
-  - [x] Sprint 2
-  - [x] Sprint 3
-  - [x] Sprint 4
+# 📖Project Description:
+- In simple words, personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently. A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.
 
+- Personal finance applications will ask users to add their expenses and based on their expenses wallet balance will be updated which will be visible to the user.  Also, users can get an analysis of their expenditure in graphical forms. They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert.
